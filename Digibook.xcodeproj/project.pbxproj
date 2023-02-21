@@ -7,30 +7,32 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FA63DEAA298596A400A98794 /* SplashScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA63DEA9298596A400A98794 /* SplashScreen.swift */; };
+		FAD25204298533B500DD9F62 /* ListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAD25203298533B500DD9F62 /* ListView.swift */; };
 		FAD401DF2984336E0048C8B2 /* DigibookApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAD401DE2984336E0048C8B2 /* DigibookApp.swift */; };
 		FAD401E12984336E0048C8B2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAD401E02984336E0048C8B2 /* ContentView.swift */; };
 		FAD401E3298433700048C8B2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FAD401E2298433700048C8B2 /* Assets.xcassets */; };
 		FAD401E6298433700048C8B2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FAD401E5298433700048C8B2 /* Preview Assets.xcassets */; };
 		FAD401E8298433700048C8B2 /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAD401E7298433700048C8B2 /* Persistence.swift */; };
 		FAD401EB298433700048C8B2 /* Digibook.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = FAD401E9298433700048C8B2 /* Digibook.xcdatamodeld */; };
-		FAD401F2298433D10048C8B2 /* Screen1.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAD401F1298433D10048C8B2 /* Screen1.swift */; };
-		FAF5CEDE2984512C00D84B74 /* Screen2.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAF5CEDD2984512C00D84B74 /* Screen2.swift */; };
-		FAF5CEE02984585800D84B74 /* Screen3.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAF5CEDF2984585800D84B74 /* Screen3.swift */; };
-		FAF5CEE2298459AC00D84B74 /* Screen4.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAF5CEE1298459AC00D84B74 /* Screen4.swift */; };
+		FAF5CEDE2984512C00D84B74 /* Splash4.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAF5CEDD2984512C00D84B74 /* Splash4.swift */; };
+		FAF5CEE02984585800D84B74 /* Splash5.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAF5CEDF2984585800D84B74 /* Splash5.swift */; };
+		FAF5CEE2298459AC00D84B74 /* Splash6.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAF5CEE1298459AC00D84B74 /* Splash6.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FA63DEA9298596A400A98794 /* SplashScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashScreen.swift; sourceTree = "<group>"; };
+		FAD25203298533B500DD9F62 /* ListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListView.swift; sourceTree = "<group>"; };
 		FAD401DB2984336E0048C8B2 /* Digibook.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Digibook.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FAD401DE2984336E0048C8B2 /* DigibookApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DigibookApp.swift; sourceTree = "<group>"; };
-		FAD401E02984336E0048C8B2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		FAD401E02984336E0048C8B2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; usesTabs = 0; };
 		FAD401E2298433700048C8B2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FAD401E5298433700048C8B2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		FAD401E7298433700048C8B2 /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		FAD401EA298433700048C8B2 /* Digibook.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Digibook.xcdatamodel; sourceTree = "<group>"; };
-		FAD401F1298433D10048C8B2 /* Screen1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Screen1.swift; sourceTree = "<group>"; };
-		FAF5CEDD2984512C00D84B74 /* Screen2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Screen2.swift; sourceTree = "<group>"; };
-		FAF5CEDF2984585800D84B74 /* Screen3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Screen3.swift; sourceTree = "<group>"; };
-		FAF5CEE1298459AC00D84B74 /* Screen4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Screen4.swift; sourceTree = "<group>"; };
+		FAF5CEDD2984512C00D84B74 /* Splash4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Splash4.swift; sourceTree = "<group>"; };
+		FAF5CEDF2984585800D84B74 /* Splash5.swift */ = {isa = PBXFileReference; indentWidth = 10; lastKnownFileType = sourcecode.swift; path = Splash5.swift; sourceTree = "<group>"; tabWidth = 11; wrapsLines = 1; };
+		FAF5CEE1298459AC00D84B74 /* Splash6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Splash6.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +46,28 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		FAD252012985321D00DD9F62 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				FAD401E02984336E0048C8B2 /* ContentView.swift */,
+				FAF5CEDD2984512C00D84B74 /* Splash4.swift */,
+				FAF5CEDF2984585800D84B74 /* Splash5.swift */,
+				FAF5CEE1298459AC00D84B74 /* Splash6.swift */,
+				FAD25203298533B500DD9F62 /* ListView.swift */,
+				FA63DEA9298596A400A98794 /* SplashScreen.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		FAD252022985326700DD9F62 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				FAD401E7298433700048C8B2 /* Persistence.swift */,
+				FAD401E9298433700048C8B2 /* Digibook.xcdatamodeld */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
 		FAD401D22984336E0048C8B2 = {
 			isa = PBXGroup;
 			children = (
@@ -64,15 +88,10 @@
 			isa = PBXGroup;
 			children = (
 				FAD401DE2984336E0048C8B2 /* DigibookApp.swift */,
-				FAD401E02984336E0048C8B2 /* ContentView.swift */,
+				FAD252012985321D00DD9F62 /* View */,
+				FAD252022985326700DD9F62 /* Resources */,
 				FAD401E2298433700048C8B2 /* Assets.xcassets */,
-				FAD401E7298433700048C8B2 /* Persistence.swift */,
-				FAD401E9298433700048C8B2 /* Digibook.xcdatamodeld */,
 				FAD401E4298433700048C8B2 /* Preview Content */,
-				FAD401F1298433D10048C8B2 /* Screen1.swift */,
-				FAF5CEDD2984512C00D84B74 /* Screen2.swift */,
-				FAF5CEDF2984585800D84B74 /* Screen3.swift */,
-				FAF5CEE1298459AC00D84B74 /* Screen4.swift */,
 			);
 			path = Digibook;
 			sourceTree = "<group>";
@@ -155,14 +174,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FAF5CEE02984585800D84B74 /* Screen3.swift in Sources */,
-				FAF5CEDE2984512C00D84B74 /* Screen2.swift in Sources */,
+				FA63DEAA298596A400A98794 /* SplashScreen.swift in Sources */,
+				FAF5CEE02984585800D84B74 /* Splash5.swift in Sources */,
+				FAF5CEDE2984512C00D84B74 /* Splash4.swift in Sources */,
 				FAD401E8298433700048C8B2 /* Persistence.swift in Sources */,
-				FAD401F2298433D10048C8B2 /* Screen1.swift in Sources */,
 				FAD401EB298433700048C8B2 /* Digibook.xcdatamodeld in Sources */,
 				FAD401E12984336E0048C8B2 /* ContentView.swift in Sources */,
 				FAD401DF2984336E0048C8B2 /* DigibookApp.swift in Sources */,
-				FAF5CEE2298459AC00D84B74 /* Screen4.swift in Sources */,
+				FAF5CEE2298459AC00D84B74 /* Splash6.swift in Sources */,
+				FAD25204298533B500DD9F62 /* ListView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
